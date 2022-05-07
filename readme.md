@@ -11,7 +11,7 @@ LGSVL simulator with python API
 
 to run the experiemnt:
 
-######################
+$$$$$$$$$$$$$$$$$$$$$$$$$
 1, to start apollo docker cd to apollo.
 ./docker/scripts/dev_start.sh
 ./docker/scripts/dev_into.sh
@@ -22,7 +22,7 @@ to run the experiemnt:
 3, open lgsvl simulator and select api only mode
 4,open another terminal run:
 python3 project.py
-######################
+$$$$$$$$$$$$$$$$$$$$$$$$$
 
 
 
