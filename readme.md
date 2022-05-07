@@ -18,13 +18,10 @@ to run the experiemnt:
 ./apollo.sh build_gpu
 ./bootstrap.sh
 ./bridge.sh
-
 3, open lgsvl simulator and select api only mode
-
 4,open another terminal run:
 python3 project.py
 ######################
-
 experiment result are apollo5.0.log and apollo6.0.log
 and youtube videos
 
