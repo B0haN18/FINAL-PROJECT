@@ -32,7 +32,7 @@ python3 project.py
 
 
 experiment results are apollo5.0.log and apollo6.0.log
-and youtube videos
+and videos in google doc
 links are :
-
+https://drive.google.com/drive/folders/12C6_0tqaSqH4tcOy5TsatwH41LVTb28E?usp=sharing
 
