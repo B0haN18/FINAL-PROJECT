@@ -11,7 +11,6 @@ from sympy import Point3D, Line3D, Segment3D, Point2D, Line2D, Segment2D
 from environs import Env
 import liability
 from datetime import datetime
-import util
 import copy
 from Chromosome import Chromosome
 from random import randrange
